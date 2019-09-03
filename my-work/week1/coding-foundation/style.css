@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+}
+
+.formAndButton{
+  display: flex;
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+
+.squareDiv{
+  display: flex;
+}
+
+.bigDiv{
+  position: absolute;
+  left: 50%;
+  margin-left: -50px;
+}
