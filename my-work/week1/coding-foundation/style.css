@@ -11,7 +11,3 @@ body {
 .squareDiv{
   display: flex;
 }
-
-.bigDiv{
-  margin: auto;
-}
