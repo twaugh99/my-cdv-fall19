@@ -1,0 +1,146 @@
+[
+    {
+        "timestamp": "2019-09-15T02:00:00.000Z",
+        "outsideTem": 24,
+        "indoorTem": 23,
+        "roomNumber": 1709
+    },
+    {
+        "timestamp": "2019-09-15T02:00:00.000Z",
+        "outsideTem": 24,
+        "indoorTem": 27,
+        "roomNumber": 1710
+    },
+    {
+        "timestamp": "2019-09-15T02:01:00.000Z",
+        "outsideTem": 24,
+        "indoorTem": 26,
+        "roomNumber": 1708
+    },
+    {
+        "timestamp": "2019-09-15T02:01:00.000Z",
+        "outsideTem": 24,
+        "indoorTem": 26,
+        "roomNumber": 1704
+    },
+    {
+        "timestamp": "2019-09-15T02:02:00.000Z",
+        "outsideTem": 24,
+        "indoorTem": 26,
+        "roomNumber": 1703
+    },
+    {
+        "timestamp": "2019-09-15T02:02:00.000Z",
+        "outsideTem": 24,
+        "indoorTem": 24,
+        "roomNumber": 1702
+    },
+    {
+        "timestamp": "2019-09-15T02:03:00.000Z",
+        "outsideTem": 24,
+        "indoorTem": 26,
+        "roomNumber": 1809
+    },
+    {
+        "timestamp": "2019-09-15T02:04:00.000Z",
+        "outsideTem": 24,
+        "indoorTem": 27,
+        "roomNumber": 1810
+    },
+    {
+        "timestamp": "2019-09-15T02:05:00.000Z",
+        "outsideTem": 24,
+        "indoorTem": 25,
+        "roomNumber": 1808
+    },
+    {
+        "timestamp": "2019-09-15T02:05:00.000Z",
+        "outsideTem": 24,
+        "indoorTem": 24,
+        "roomNumber": 1805
+    },
+    {
+        "timestamp": "2019-09-15T02:06:00.000Z",
+        "outsideTem": 24,
+        "indoorTem": 26,
+        "roomNumber": 1801
+    },
+    {
+        "timestamp": "2019-09-15T02:10:00.000Z",
+        "outsideTem": 24,
+        "indoorTem": 20,
+        "roomNumber": 1609
+    },
+    {
+        "timestamp": "2019-09-15T02:11:00.000Z",
+        "outsideTem": 24,
+        "indoorTem": 23,
+        "roomNumber": 1607
+    },
+    {
+        "timestamp": "2019-09-15T02:11:00.000Z",
+        "outsideTem": 24,
+        "indoorTem": 26,
+        "roomNumber": 1606
+    },
+    {
+        "timestamp": "2019-09-15T02:12:00.000Z",
+        "outsideTem": 24,
+        "indoorTem": 23,
+        "roomNumber": 1603
+    },
+    {
+        "timestamp": "2019-09-15T02:13:00.000Z",
+        "outsideTem": 24,
+        "indoorTem": 23,
+        "roomNumber": 1601
+    },
+    {
+        "timestamp": "2019-09-15T02:16:00.000Z",
+        "outsideTem": 24,
+        "indoorTem": 25,
+        "roomNumber": 1409
+    },
+    {
+        "timestamp": "2019-09-15T02:16:00.000Z",
+        "outsideTem": 24,
+        "indoorTem": 25,
+        "roomNumber": 1410
+    },
+    {
+        "timestamp": "2019-09-15T02:16:00.000Z",
+        "outsideTem": 24,
+        "indoorTem": 24,
+        "roomNumber": 1408
+    },
+    {
+        "timestamp": "2019-09-15T02:17:00.000Z",
+        "outsideTem": 24,
+        "indoorTem": 26,
+        "roomNumber": 1406
+    },
+    {
+        "timestamp": "2019-09-15T02:17:00.000Z",
+        "outsideTem": 24,
+        "indoorTem": 24,
+        "roomNumber": 1405
+    },
+    {
+        "timestamp": "2019-09-15T02:17:00.000Z",
+        "outsideTem": 24,
+        "indoorTem": 26,
+        "roomNumber": 1403
+    },
+    {
+        "timestamp": "2019-09-15T02:17:00.000Z",
+        "outsideTem": 24,
+        "indoorTem": 26,
+        "roomNumber": 1401
+    },
+    {
+        "timestamp": "2019-09-15T02:19:00.000Z",
+        "outsideTem": 24,
+        "indoorTem": 24,
+        "roomNumber": 1402
+    }
+]

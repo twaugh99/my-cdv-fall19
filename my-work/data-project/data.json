@@ -1,0 +1,1424 @@
+[
+    {
+        "timestamp": "2019-09-19T08:28:17.034Z",
+        "score": 0,
+        "day": "2019-09-08T16:00:00.000Z",
+        "hour": "1899-12-29T20:03:17.000Z",
+        "type": "Spam Personal",
+        "sender": "vivid seats",
+        "generalSubject": "concert tickets"
+    },
+    {
+        "timestamp": "2019-09-19T08:29:11.454Z",
+        "score": 0,
+        "day": "2019-09-08T16:00:00.000Z",
+        "hour": "1899-12-29T22:27:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Apple",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T08:30:37.117Z",
+        "score": 0,
+        "day": "2019-09-08T16:00:00.000Z",
+        "hour": "1899-12-29T22:40:17.000Z",
+        "type": "Spam Personal",
+        "sender": "linkedin",
+        "generalSubject": "weekly update"
+    },
+    {
+        "timestamp": "2019-09-19T08:32:10.961Z",
+        "score": 0,
+        "day": "2019-09-08T16:00:00.000Z",
+        "hour": "1899-12-30T00:39:17.000Z",
+        "type": "Teacher",
+        "sender": "app lab",
+        "generalSubject": "slack message"
+    },
+    {
+        "timestamp": "2019-09-19T08:32:59.509Z",
+        "score": 0,
+        "day": "2019-09-08T16:00:00.000Z",
+        "hour": "1899-12-30T00:48:17.000Z",
+        "type": "Spam School",
+        "sender": "ARC",
+        "generalSubject": "PSA"
+    },
+    {
+        "timestamp": "2019-09-19T08:33:36.855Z",
+        "score": 0,
+        "day": "2019-09-08T16:00:00.000Z",
+        "hour": "1899-12-30T02:07:17.000Z",
+        "type": "Teacher",
+        "sender": "PoH",
+        "generalSubject": "homework assignment"
+    },
+    {
+        "timestamp": "2019-09-19T08:34:07.373Z",
+        "score": 0,
+        "day": "2019-09-08T16:00:00.000Z",
+        "hour": "1899-12-30T02:23:17.000Z",
+        "type": "Spam School",
+        "sender": " University Communications",
+        "generalSubject": "weekly update"
+    },
+    {
+        "timestamp": "2019-09-19T08:34:55.224Z",
+        "score": 0,
+        "day": "2019-09-08T16:00:00.000Z",
+        "hour": "1899-12-30T02:34:17.000Z",
+        "type": "Spam School",
+        "sender": "Study Away Programs",
+        "generalSubject": "PSA"
+    },
+    {
+        "timestamp": "2019-09-19T08:35:25.714Z",
+        "score": 0,
+        "day": "2019-09-08T16:00:00.000Z",
+        "hour": "1899-12-30T03:48:17.000Z",
+        "type": "Spam School",
+        "sender": "Athletics & Fitness",
+        "generalSubject": "PSA"
+    },
+    {
+        "timestamp": "2019-09-19T08:35:58.783Z",
+        "score": 0,
+        "day": "2019-09-08T16:00:00.000Z",
+        "hour": "1899-12-29T20:16:17.000Z",
+        "type": "Spam School",
+        "sender": "Advising",
+        "generalSubject": "PSA"
+    },
+    {
+        "timestamp": "2019-09-19T08:36:22.907Z",
+        "score": 0,
+        "day": "2019-09-08T16:00:00.000Z",
+        "hour": "1899-12-30T03:29:17.000Z",
+        "type": "Spam School",
+        "sender": "Student Health Center",
+        "generalSubject": "PSA"
+    },
+    {
+        "timestamp": "2019-09-19T08:37:13.979Z",
+        "score": 0,
+        "day": "2019-09-08T16:00:00.000Z",
+        "hour": "1899-12-29T18:09:17.000Z",
+        "type": "Spam School",
+        "sender": " OrgSync",
+        "generalSubject": "invitation"
+    },
+    {
+        "timestamp": "2019-09-19T08:37:47.789Z",
+        "score": 0,
+        "day": "2019-09-08T16:00:00.000Z",
+        "hour": "1899-12-30T06:10:17.000Z",
+        "type": "Spam School",
+        "sender": "Career Development Center",
+        "generalSubject": "PSA"
+    },
+    {
+        "timestamp": "2019-09-19T08:38:50.191Z",
+        "score": 0,
+        "day": "2019-09-08T16:00:00.000Z",
+        "hour": "1899-12-30T07:23:17.000Z",
+        "type": "Teacher",
+        "sender": "Advanced Chinese I",
+        "generalSubject": "homework assignment"
+    },
+    {
+        "timestamp": "2019-09-19T08:39:13.207Z",
+        "score": 0,
+        "day": "2019-09-08T16:00:00.000Z",
+        "hour": "1899-12-30T07:24:17.000Z",
+        "type": "Spam School",
+        "sender": "Career Development Center",
+        "generalSubject": "invitation"
+    },
+    {
+        "timestamp": "2019-09-19T08:39:45.529Z",
+        "score": 0,
+        "day": "2019-09-08T16:00:00.000Z",
+        "hour": "1899-12-30T07:25:17.000Z",
+        "type": "Teacher",
+        "sender": "Advanced Chinese I",
+        "generalSubject": "homework assignment"
+    },
+    {
+        "timestamp": "2019-09-19T08:40:15.087Z",
+        "score": 0,
+        "day": "2019-09-08T16:00:00.000Z",
+        "hour": "1899-12-30T07:40:17.000Z",
+        "type": "Spam School",
+        "sender": "Academic Affairs",
+        "generalSubject": "weekly update"
+    },
+    {
+        "timestamp": "2019-09-19T08:40:40.345Z",
+        "score": 0,
+        "day": "2019-09-08T16:00:00.000Z",
+        "hour": "1899-12-29T20:24:17.000Z",
+        "type": "Teacher",
+        "sender": "app lab",
+        "generalSubject": "slack message"
+    },
+    {
+        "timestamp": "2019-09-19T08:41:07.983Z",
+        "score": 0,
+        "day": "2019-09-08T16:00:00.000Z",
+        "hour": "1899-12-30T08:33:17.000Z",
+        "type": "Spam School",
+        "sender": "IMA",
+        "generalSubject": "weekly update"
+    },
+    {
+        "timestamp": "2019-09-19T08:42:00.113Z",
+        "score": 0,
+        "day": "2019-09-08T16:00:00.000Z",
+        "hour": "1899-12-30T08:33:17.000Z",
+        "type": "Direct",
+        "sender": "NYU Classes",
+        "generalSubject": "assignment submission"
+    },
+    {
+        "timestamp": "2019-09-19T08:42:24.358Z",
+        "score": 0,
+        "day": "2019-09-08T16:00:00.000Z",
+        "hour": "1899-12-30T09:01:17.000Z",
+        "type": "Spam Personal",
+        "sender": "linkedin",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T08:43:09.439Z",
+        "score": 0,
+        "day": "2019-09-08T16:00:00.000Z",
+        "hour": "1899-12-30T09:35:17.000Z",
+        "type": "Direct",
+        "sender": "Student Mobility",
+        "generalSubject": "internship"
+    },
+    {
+        "timestamp": "2019-09-19T08:43:45.842Z",
+        "score": 0,
+        "day": "2019-09-08T16:00:00.000Z",
+        "hour": "1899-12-30T10:02:17.000Z",
+        "type": "Direct",
+        "sender": "Student Mobility",
+        "generalSubject": "internship"
+    },
+    {
+        "timestamp": "2019-09-19T08:44:09.523Z",
+        "score": 0,
+        "day": "2019-09-08T16:00:00.000Z",
+        "hour": "1899-12-30T10:09:17.000Z",
+        "type": "Spam School",
+        "sender": "Student Involvement",
+        "generalSubject": "PSA"
+    },
+    {
+        "timestamp": "2019-09-19T08:44:49.326Z",
+        "score": 0,
+        "day": "2019-09-08T16:00:00.000Z",
+        "hour": "1899-12-30T10:39:17.000Z",
+        "type": "Spam School",
+        "sender": "Diversity Initiatives",
+        "generalSubject": "PSA"
+    },
+    {
+        "timestamp": "2019-09-19T08:45:32.445Z",
+        "score": 0,
+        "day": "2019-09-08T16:00:00.000Z",
+        "hour": "1899-12-30T15:00:17.000Z",
+        "type": "Spam School",
+        "sender": "Stay Woke NYU",
+        "generalSubject": "PSA"
+    },
+    {
+        "timestamp": "2019-09-19T08:46:07.919Z",
+        "score": 0,
+        "day": "2019-09-08T16:00:00.000Z",
+        "hour": "1899-12-30T15:32:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Secure Tix",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T08:46:38.996Z",
+        "score": 0,
+        "day": "2019-09-09T16:00:00.000Z",
+        "hour": "1899-12-29T16:56:17.000Z",
+        "type": "Spam Personal",
+        "sender": "CheapOair",
+        "generalSubject": "flight deals"
+    },
+    {
+        "timestamp": "2019-09-19T08:47:06.342Z",
+        "score": 0,
+        "day": "2019-09-09T16:00:00.000Z",
+        "hour": "1899-12-29T18:24:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Slack",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T08:47:28.741Z",
+        "score": 0,
+        "day": "2019-09-09T16:00:00.000Z",
+        "hour": "1899-12-29T18:55:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Margin Walker Austin",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T08:47:46.844Z",
+        "score": 0,
+        "day": "2019-09-09T16:00:00.000Z",
+        "hour": "1899-12-29T19:36:17.000Z",
+        "type": "Spam Personal",
+        "sender": "JetBlue",
+        "generalSubject": "flight deals"
+    },
+    {
+        "timestamp": "2019-09-19T08:48:49.113Z",
+        "score": 0,
+        "day": "2019-09-09T16:00:00.000Z",
+        "hour": "1899-12-29T20:33:17.000Z",
+        "type": "Spam School",
+        "sender": "Stay Woke NYU",
+        "generalSubject": "PSA"
+    },
+    {
+        "timestamp": "2019-09-19T08:49:11.521Z",
+        "score": 0,
+        "day": "2019-09-09T16:00:00.000Z",
+        "hour": "1899-12-30T00:52:17.000Z",
+        "type": "Direct",
+        "sender": "Student Mobility",
+        "generalSubject": "internship"
+    },
+    {
+        "timestamp": "2019-09-19T08:49:38.979Z",
+        "score": 0,
+        "day": "2019-09-09T16:00:00.000Z",
+        "hour": "1899-12-30T01:29:17.000Z",
+        "type": "Spam School",
+        "sender": "New Student Programs",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T08:49:56.669Z",
+        "score": 0,
+        "day": "2019-09-09T16:00:00.000Z",
+        "hour": "1899-12-30T02:39:17.000Z",
+        "type": "Spam School",
+        "sender": "2013 Fund",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T08:50:15.924Z",
+        "score": 0,
+        "day": "2019-09-09T16:00:00.000Z",
+        "hour": "1899-12-30T03:50:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Expedia",
+        "generalSubject": "flight deals"
+    },
+    {
+        "timestamp": "2019-09-19T08:50:47.677Z",
+        "score": 0,
+        "day": "2019-09-09T16:00:00.000Z",
+        "hour": "1899-12-30T07:08:17.000Z",
+        "type": "Spam School",
+        "sender": "OrgSync",
+        "generalSubject": "invitation"
+    },
+    {
+        "timestamp": "2019-09-19T08:53:38.791Z",
+        "score": 0,
+        "day": "2019-09-09T16:00:00.000Z",
+        "hour": "1899-12-30T02:57:17.000Z",
+        "type": "Direct",
+        "sender": "CDV",
+        "generalSubject": "help with assignment"
+    },
+    {
+        "timestamp": "2019-09-19T08:54:08.893Z",
+        "score": 0,
+        "day": "2019-09-09T16:00:00.000Z",
+        "hour": "1899-12-30T07:13:17.000Z",
+        "type": "Teacher",
+        "sender": "Advanced Chinese I",
+        "generalSubject": "homework assignment"
+    },
+    {
+        "timestamp": "2019-09-19T08:55:07.601Z",
+        "score": 0,
+        "day": "2019-09-09T16:00:00.000Z",
+        "hour": "1899-12-30T07:19:17.000Z",
+        "type": "Direct",
+        "sender": "CDV",
+        "generalSubject": "help with assignment"
+    },
+    {
+        "timestamp": "2019-09-19T08:56:55.603Z",
+        "score": 0,
+        "day": "2019-09-09T16:00:00.000Z",
+        "hour": "1899-12-30T10:03:17.000Z",
+        "type": "Teacher",
+        "sender": "CDV",
+        "generalSubject": "help with assignment"
+    },
+    {
+        "timestamp": "2019-09-19T08:57:36.812Z",
+        "score": 0,
+        "day": "2019-09-09T16:00:00.000Z",
+        "hour": "1899-12-30T10:24:17.000Z",
+        "type": "Teacher",
+        "sender": "app lab",
+        "generalSubject": "slack notification"
+    },
+    {
+        "timestamp": "2019-09-19T08:58:33.481Z",
+        "score": 0,
+        "day": "2019-09-09T16:00:00.000Z",
+        "hour": "1899-12-30T10:39:17.000Z",
+        "type": "Teacher",
+        "sender": "app lab",
+        "generalSubject": "slack notification"
+    },
+    {
+        "timestamp": "2019-09-19T08:59:07.336Z",
+        "score": 0,
+        "day": "2019-09-09T16:00:00.000Z",
+        "hour": "1899-12-30T11:55:17.000Z",
+        "type": "Spam School",
+        "sender": "RA",
+        "generalSubject": "PSA"
+    },
+    {
+        "timestamp": "2019-09-19T08:59:32.436Z",
+        "score": 0,
+        "day": "2019-09-09T16:00:00.000Z",
+        "hour": "1899-12-30T12:29:17.000Z",
+        "type": "Spam School",
+        "sender": "OrgSync",
+        "generalSubject": "invitation"
+    },
+    {
+        "timestamp": "2019-09-19T09:00:07.532Z",
+        "score": 0,
+        "day": "2019-09-09T16:00:00.000Z",
+        "hour": "1899-12-30T14:13:17.000Z",
+        "type": "Spam Personal",
+        "sender": "linkedin",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T09:00:39.188Z",
+        "score": 0,
+        "day": "2019-09-10T16:00:00.000Z",
+        "hour": "1899-12-29T17:41:17.000Z",
+        "type": "Spam Personal",
+        "sender": "JetBlue",
+        "generalSubject": "flight deals"
+    },
+    {
+        "timestamp": "2019-09-19T09:00:59.145Z",
+        "score": 0,
+        "day": "2019-09-10T16:00:00.000Z",
+        "hour": "1899-12-29T17:42:17.000Z",
+        "type": "Spam Personal",
+        "sender": "CheapOair",
+        "generalSubject": "flight deals"
+    },
+    {
+        "timestamp": "2019-09-19T09:01:22.513Z",
+        "score": 0,
+        "day": "2019-09-10T16:00:00.000Z",
+        "hour": "1899-12-29T22:52:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Expedia",
+        "generalSubject": "flight deals"
+    },
+    {
+        "timestamp": "2019-09-19T09:01:42.814Z",
+        "score": 0,
+        "day": "2019-09-10T16:00:00.000Z",
+        "hour": "1899-12-29T23:15:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Ticketmaster",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T09:01:59.203Z",
+        "score": 0,
+        "day": "2019-09-10T16:00:00.000Z",
+        "hour": "1899-12-30T00:43:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Schlitterbahn",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T09:02:20.684Z",
+        "score": 0,
+        "day": "2019-09-10T16:00:00.000Z",
+        "hour": "1899-12-30T02:36:17.000Z",
+        "type": "Spam School",
+        "sender": "Global Spiritual Life",
+        "generalSubject": "PSA"
+    },
+    {
+        "timestamp": "2019-09-19T09:03:01.340Z",
+        "score": 0,
+        "day": "2019-09-10T16:00:00.000Z",
+        "hour": "1899-12-30T03:33:17.000Z",
+        "type": "Direct",
+        "sender": "TC Waugh",
+        "generalSubject": "personal"
+    },
+    {
+        "timestamp": "2019-09-19T09:03:25.840Z",
+        "score": 0,
+        "day": "2019-09-10T16:00:00.000Z",
+        "hour": "1899-12-30T06:17:17.000Z",
+        "type": "Teacher",
+        "sender": "Advanced Chinese I",
+        "generalSubject": "homework assignment"
+    },
+    {
+        "timestamp": "2019-09-19T09:03:50.920Z",
+        "score": 0,
+        "day": "2019-09-10T16:00:00.000Z",
+        "hour": "1899-12-30T06:40:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Apple",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T09:04:15.722Z",
+        "score": 0,
+        "day": "2019-09-10T16:00:00.000Z",
+        "hour": "1899-12-29T21:10:17.000Z",
+        "type": "Spam Personal",
+        "sender": "linkedin",
+        "generalSubject": "notification"
+    },
+    {
+        "timestamp": "2019-09-19T09:04:52.954Z",
+        "score": 0,
+        "day": "2019-09-10T16:00:00.000Z",
+        "hour": "1899-12-30T09:33:17.000Z",
+        "type": "Direct",
+        "sender": "RA",
+        "generalSubject": "PSA"
+    },
+    {
+        "timestamp": "2019-09-19T09:05:17.471Z",
+        "score": 0,
+        "day": "2019-09-10T16:00:00.000Z",
+        "hour": "1899-12-30T13:19:17.000Z",
+        "type": "Teacher",
+        "sender": "CDV",
+        "generalSubject": "help with assignment"
+    },
+    {
+        "timestamp": "2019-09-19T09:05:44.576Z",
+        "score": 0,
+        "day": "2019-09-10T16:00:00.000Z",
+        "hour": "1899-12-30T13:34:17.000Z",
+        "type": "Spam School",
+        "sender": "Gallatin Office of Global Programs",
+        "generalSubject": "invitation"
+    },
+    {
+        "timestamp": "2019-09-19T09:06:21.141Z",
+        "score": 0,
+        "day": "2019-09-10T16:00:00.000Z",
+        "hour": "1899-12-30T15:20:17.000Z",
+        "type": "Spam School",
+        "sender": "Jinyang Journal",
+        "generalSubject": "weekly update"
+    },
+    {
+        "timestamp": "2019-09-19T09:06:46.667Z",
+        "score": 0,
+        "day": "2019-09-10T16:00:00.000Z",
+        "hour": "1899-12-30T15:34:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Ticket Sales",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T09:07:15.451Z",
+        "score": 0,
+        "day": "2019-09-10T16:00:00.000Z",
+        "hour": "1899-12-30T15:36:17.000Z",
+        "type": "Direct",
+        "sender": "Bursar",
+        "generalSubject": "account balance"
+    },
+    {
+        "timestamp": "2019-09-19T09:07:44.126Z",
+        "score": 0,
+        "day": "2019-09-11T16:00:00.000Z",
+        "hour": "1899-12-29T18:11:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Slack",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T09:08:10.297Z",
+        "score": 0,
+        "day": "2019-09-11T16:00:00.000Z",
+        "hour": "1899-12-29T18:19:17.000Z",
+        "type": "Spam Personal",
+        "sender": "CheapOair",
+        "generalSubject": "flight deals"
+    },
+    {
+        "timestamp": "2019-09-19T09:08:28.050Z",
+        "score": 0,
+        "day": "2019-09-11T16:00:00.000Z",
+        "hour": "1899-12-29T23:15:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Eventbrite",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T09:08:44.033Z",
+        "score": 0,
+        "day": "2019-09-11T16:00:00.000Z",
+        "hour": "1899-12-30T00:14:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Expedia",
+        "generalSubject": "flight deals"
+    },
+    {
+        "timestamp": "2019-09-19T09:09:03.328Z",
+        "score": 0,
+        "day": "2019-09-11T16:00:00.000Z",
+        "hour": "1899-12-30T01:08:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Ticketmaster",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T09:09:27.846Z",
+        "score": 0,
+        "day": "2019-09-11T16:00:00.000Z",
+        "hour": "1899-12-30T02:35:17.000Z",
+        "type": "Spam School",
+        "sender": "Elections Board",
+        "generalSubject": "PSA"
+    },
+    {
+        "timestamp": "2019-09-19T09:22:21.910Z",
+        "score": 0,
+        "day": "2019-09-11T16:00:00.000Z",
+        "hour": "1899-12-30T03:27:17.000Z",
+        "type": "Spam School",
+        "sender": "Public Safety",
+        "generalSubject": "PSA"
+    },
+    {
+        "timestamp": "2019-09-19T09:22:53.436Z",
+        "score": 0,
+        "day": "2019-09-11T16:00:00.000Z",
+        "hour": "1899-12-30T06:43:17.000Z",
+        "type": "Spam School",
+        "sender": "Career Development Center",
+        "generalSubject": "invitation"
+    },
+    {
+        "timestamp": "2019-09-19T09:23:15.033Z",
+        "score": 0,
+        "day": "2019-09-11T16:00:00.000Z",
+        "hour": "1899-12-30T07:39:17.000Z",
+        "type": "Spam Personal",
+        "sender": "247tickets",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T09:23:50.003Z",
+        "score": 0,
+        "day": "2019-09-11T16:00:00.000Z",
+        "hour": "1899-12-30T07:41:17.000Z",
+        "type": "Spam School",
+        "sender": "Student Health Center",
+        "generalSubject": "invitation"
+    },
+    {
+        "timestamp": "2019-09-19T09:24:22.684Z",
+        "score": 0,
+        "day": "2019-09-11T16:00:00.000Z",
+        "hour": "1899-12-30T08:54:17.000Z",
+        "type": "Teacher",
+        "sender": "app lab",
+        "generalSubject": "slack notification"
+    },
+    {
+        "timestamp": "2019-09-19T09:24:43.807Z",
+        "score": 0,
+        "day": "2019-09-11T16:00:00.000Z",
+        "hour": "1899-12-30T10:06:17.000Z",
+        "type": "Spam Personal",
+        "sender": "JetBlue",
+        "generalSubject": "flight deals"
+    },
+    {
+        "timestamp": "2019-09-19T09:25:35.530Z",
+        "score": 0,
+        "day": "2019-09-11T16:00:00.000Z",
+        "hour": "1899-12-30T11:24:17.000Z",
+        "type": "Spam School",
+        "sender": "NYU Shanghai Gazette",
+        "generalSubject": "weekly update"
+    },
+    {
+        "timestamp": "2019-09-19T09:26:07.057Z",
+        "score": 0,
+        "day": "2019-09-12T16:00:00.000Z",
+        "hour": "1899-12-29T18:32:17.000Z",
+        "type": "Direct",
+        "sender": "ACL",
+        "generalSubject": "order confirmation"
+    },
+    {
+        "timestamp": "2019-09-19T09:26:30.374Z",
+        "score": 0,
+        "day": "2019-09-12T16:00:00.000Z",
+        "hour": "1899-12-29T19:01:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Margin Walker Presents",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T09:26:56.371Z",
+        "score": 0,
+        "day": "2019-09-12T16:00:00.000Z",
+        "hour": "1899-12-29T19:54:17.000Z",
+        "type": "Spam Personal",
+        "sender": "St. Stephen's Episcopal School",
+        "generalSubject": "invitation"
+    },
+    {
+        "timestamp": "2019-09-19T09:27:19.137Z",
+        "score": 0,
+        "day": "2019-09-12T16:00:00.000Z",
+        "hour": "1899-12-29T22:56:17.000Z",
+        "type": "Spam Personal",
+        "sender": "88NIGHTMARKET",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T09:27:36.018Z",
+        "score": 0,
+        "day": "2019-09-12T16:00:00.000Z",
+        "hour": "1899-12-30T01:44:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Schlitterbahn",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T09:27:52.297Z",
+        "score": 0,
+        "day": "2019-09-12T16:00:00.000Z",
+        "hour": "1899-12-30T02:15:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Apple",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T09:28:16.893Z",
+        "score": 0,
+        "day": "2019-09-12T16:00:00.000Z",
+        "hour": "1899-12-30T10:01:17.000Z",
+        "type": "Spam Personal",
+        "sender": "JetBlue",
+        "generalSubject": "flight deals"
+    },
+    {
+        "timestamp": "2019-09-19T09:28:37.052Z",
+        "score": 0,
+        "day": "2019-09-12T16:00:00.000Z",
+        "hour": "1899-12-30T13:32:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Fandango",
+        "generalSubject": "weekly update"
+    },
+    {
+        "timestamp": "2019-09-19T09:28:56.734Z",
+        "score": 0,
+        "day": "2019-09-12T16:00:00.000Z",
+        "hour": "1899-12-30T02:52:17.000Z",
+        "type": "Spam Personal",
+        "sender": "GoDaddy",
+        "generalSubject": "weekly update"
+    },
+    {
+        "timestamp": "2019-09-19T09:29:21.888Z",
+        "score": 0,
+        "day": "2019-09-12T16:00:00.000Z",
+        "hour": "1899-12-30T14:59:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Margin Walker Presents",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T09:29:40.816Z",
+        "score": 0,
+        "day": "2019-09-12T16:00:00.000Z",
+        "hour": "1899-12-30T15:05:17.000Z",
+        "type": "Spam School",
+        "sender": "Elections Board",
+        "generalSubject": "PSA"
+    },
+    {
+        "timestamp": "2019-09-19T09:29:57.148Z",
+        "score": 0,
+        "day": "2019-09-12T16:00:00.000Z",
+        "hour": "1899-12-30T15:10:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Apple",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T09:30:16.989Z",
+        "score": 0,
+        "day": "2019-09-12T16:00:00.000Z",
+        "hour": "1899-12-30T15:35:17.000Z",
+        "type": "Spam Personal",
+        "sender": "CheapOair",
+        "generalSubject": "flight deals"
+    },
+    {
+        "timestamp": "2019-09-19T09:30:39.306Z",
+        "score": 0,
+        "day": "2019-09-13T16:00:00.000Z",
+        "hour": "1899-12-29T16:38:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Ticket Sales",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T09:31:02.633Z",
+        "score": 0,
+        "day": "2019-09-13T16:00:00.000Z",
+        "hour": "1899-12-29T17:04:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Slack",
+        "generalSubject": "invitation"
+    },
+    {
+        "timestamp": "2019-09-19T09:31:25.650Z",
+        "score": 0,
+        "day": "2019-09-13T16:00:00.000Z",
+        "hour": "1899-12-29T23:45:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Expedia",
+        "generalSubject": "flight deals"
+    },
+    {
+        "timestamp": "2019-09-19T09:32:04.498Z",
+        "score": 0,
+        "day": "2019-09-13T16:00:00.000Z",
+        "hour": "1899-12-30T03:24:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Medium",
+        "generalSubject": "PSA"
+    },
+    {
+        "timestamp": "2019-09-19T09:32:27.037Z",
+        "score": 0,
+        "day": "2019-09-13T16:00:00.000Z",
+        "hour": "1899-12-30T12:13:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Apple",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T09:32:57.573Z",
+        "score": 0,
+        "day": "2019-09-13T16:00:00.000Z",
+        "hour": "1899-12-30T12:14:17.000Z",
+        "type": "Direct",
+        "sender": "NYU Classes",
+        "generalSubject": "assignment submission"
+    },
+    {
+        "timestamp": "2019-09-19T09:33:40.730Z",
+        "score": 0,
+        "day": "2019-09-14T16:00:00.000Z",
+        "hour": "1899-12-29T18:39:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Expedia",
+        "generalSubject": "flight deals"
+    },
+    {
+        "timestamp": "2019-09-19T09:34:12.638Z",
+        "score": 0,
+        "day": "2019-09-08T16:00:00.000Z",
+        "hour": "1899-12-30T09:52:17.000Z",
+        "type": "Spam School",
+        "sender": "Student Government",
+        "generalSubject": "PSA"
+    },
+    {
+        "timestamp": "2019-09-19T09:34:39.773Z",
+        "score": 0,
+        "day": "2019-09-14T16:00:00.000Z",
+        "hour": "1899-12-30T05:09:17.000Z",
+        "type": "Teacher",
+        "sender": "app lab",
+        "generalSubject": "slack notification"
+    },
+    {
+        "timestamp": "2019-09-19T09:35:32.668Z",
+        "score": 0,
+        "day": "2019-09-14T16:00:00.000Z",
+        "hour": "1899-12-30T15:47:17.000Z",
+        "type": "Direct",
+        "sender": "Koresh Aharon Galil",
+        "generalSubject": "course selection"
+    },
+    {
+        "timestamp": "2019-09-19T09:35:55.249Z",
+        "score": 0,
+        "day": "2019-09-15T16:00:00.000Z",
+        "hour": "1899-12-29T22:52:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Apple",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T09:36:18.882Z",
+        "score": 0,
+        "day": "2019-09-15T16:00:00.000Z",
+        "hour": "1899-12-30T00:34:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Medium",
+        "generalSubject": "weekly update"
+    },
+    {
+        "timestamp": "2019-09-19T09:36:37.424Z",
+        "score": 0,
+        "day": "2019-09-15T16:00:00.000Z",
+        "hour": "1899-12-30T02:01:17.000Z",
+        "type": "Spam School",
+        "sender": "Textbook Team",
+        "generalSubject": "PSA"
+    },
+    {
+        "timestamp": "2019-09-19T10:12:04.072Z",
+        "score": 0,
+        "day": "2019-09-15T16:00:00.000Z",
+        "hour": "1899-12-30T02:08:17.000Z",
+        "type": "Spam School",
+        "sender": "University Communications",
+        "generalSubject": "weekly update"
+    },
+    {
+        "timestamp": "2019-09-19T10:13:17.461Z",
+        "score": 0,
+        "day": "2019-09-15T16:00:00.000Z",
+        "hour": "1899-12-30T02:10:17.000Z",
+        "type": "Spam School",
+        "sender": "Student Health Center",
+        "generalSubject": "weekly update"
+    },
+    {
+        "timestamp": "2019-09-19T10:13:49.294Z",
+        "score": 0,
+        "day": "2019-09-15T16:00:00.000Z",
+        "hour": "1899-12-30T02:30:17.000Z",
+        "type": "Spam School",
+        "sender": "Advising",
+        "generalSubject": "PSA"
+    },
+    {
+        "timestamp": "2019-09-19T10:14:12.569Z",
+        "score": 0,
+        "day": "2019-09-15T16:00:00.000Z",
+        "hour": "1899-12-30T03:42:17.000Z",
+        "type": "Spam School",
+        "sender": "New Student Programs",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T10:14:36.046Z",
+        "score": 0,
+        "day": "2019-09-15T16:00:00.000Z",
+        "hour": "1899-12-29T16:39:17.000Z",
+        "type": "Spam School",
+        "sender": "app lab",
+        "generalSubject": "slack notification"
+    },
+    {
+        "timestamp": "2019-09-19T10:15:46.042Z",
+        "score": 0,
+        "day": "2019-09-15T16:00:00.000Z",
+        "hour": "1899-12-30T05:03:17.000Z",
+        "type": "Spam School",
+        "sender": "Advanced Chinese I",
+        "generalSubject": "homework assignment"
+    },
+    {
+        "timestamp": "2019-09-19T10:16:11.186Z",
+        "score": 0,
+        "day": "2019-09-15T16:00:00.000Z",
+        "hour": "1899-12-30T08:35:17.000Z",
+        "type": "Spam School",
+        "sender": "Academic Affairs",
+        "generalSubject": "weekly update"
+    },
+    {
+        "timestamp": "2019-09-19T10:16:41.964Z",
+        "score": 0,
+        "day": "2019-09-15T16:00:00.000Z",
+        "hour": "1899-12-30T08:35:17.000Z",
+        "type": "Spam School",
+        "sender": "IMA",
+        "generalSubject": "weekly update"
+    },
+    {
+        "timestamp": "2019-09-19T10:17:11.867Z",
+        "score": 0,
+        "day": "2019-09-15T16:00:00.000Z",
+        "hour": "1899-12-30T08:40:17.000Z",
+        "type": "Spam School",
+        "sender": "PoH",
+        "generalSubject": "homework assignment"
+    },
+    {
+        "timestamp": "2019-09-19T10:17:45.338Z",
+        "score": 0,
+        "day": "2019-09-15T16:00:00.000Z",
+        "hour": "1899-12-30T09:14:17.000Z",
+        "type": "Spam Personal",
+        "sender": "linkedin",
+        "generalSubject": "notification"
+    },
+    {
+        "timestamp": "2019-09-19T10:18:14.900Z",
+        "score": 0,
+        "day": "2019-09-15T16:00:00.000Z",
+        "hour": "1899-12-30T09:26:17.000Z",
+        "type": "Spam School",
+        "sender": "Student Health Center",
+        "generalSubject": "invitation"
+    },
+    {
+        "timestamp": "2019-09-19T10:18:54.808Z",
+        "score": 0,
+        "day": "2019-09-15T16:00:00.000Z",
+        "hour": "1899-12-30T10:24:17.000Z",
+        "type": "Spam School",
+        "sender": "app lab",
+        "generalSubject": "slack notification"
+    },
+    {
+        "timestamp": "2019-09-19T10:19:53.389Z",
+        "score": 0,
+        "day": "2019-09-15T16:00:00.000Z",
+        "hour": "1899-12-30T07:22:17.000Z",
+        "type": "Teacher",
+        "sender": "CDV",
+        "generalSubject": "help with assignment"
+    },
+    {
+        "timestamp": "2019-09-19T10:20:51.397Z",
+        "score": 0,
+        "day": "2019-09-15T16:00:00.000Z",
+        "hour": "1899-12-30T13:28:17.000Z",
+        "type": "Teacher",
+        "sender": "CDV",
+        "generalSubject": "homework assignment"
+    },
+    {
+        "timestamp": "2019-09-19T10:21:23.974Z",
+        "score": 0,
+        "day": "2019-09-15T16:00:00.000Z",
+        "hour": "1899-12-30T14:40:17.000Z",
+        "type": "Spam School",
+        "sender": "Global Programs",
+        "generalSubject": "PSA"
+    },
+    {
+        "timestamp": "2019-09-19T10:21:40.770Z",
+        "score": 0,
+        "day": "2019-09-15T16:00:00.000Z",
+        "hour": "1899-12-30T15:22:17.000Z",
+        "type": "Spam School",
+        "sender": "Ticket Sales",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T10:22:13.975Z",
+        "score": 0,
+        "day": "2019-09-16T16:00:00.000Z",
+        "hour": "1899-12-29T16:47:17.000Z",
+        "type": "Spam Personal",
+        "sender": "CheapOair",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T10:23:07.430Z",
+        "score": 0,
+        "day": "2019-09-16T16:00:00.000Z",
+        "hour": "1899-12-29T17:14:17.000Z",
+        "type": "Spam School",
+        "sender": "Stay Woke NYU",
+        "generalSubject": "weekly update"
+    },
+    {
+        "timestamp": "2019-09-19T10:23:29.208Z",
+        "score": 0,
+        "day": "2019-09-16T16:00:00.000Z",
+        "hour": "1899-12-29T21:36:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Expedia",
+        "generalSubject": "flight deals"
+    },
+    {
+        "timestamp": "2019-09-19T10:23:52.337Z",
+        "score": 0,
+        "day": "2019-09-16T16:00:00.000Z",
+        "hour": "1899-12-30T00:34:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Medium",
+        "generalSubject": "weekly update"
+    },
+    {
+        "timestamp": "2019-09-19T10:24:37.860Z",
+        "score": 0,
+        "day": "2019-09-16T16:00:00.000Z",
+        "hour": "1899-12-30T03:36:17.000Z",
+        "type": "Spam School",
+        "sender": "Career Development Center",
+        "generalSubject": "invitation"
+    },
+    {
+        "timestamp": "2019-09-19T10:25:46.603Z",
+        "score": 0,
+        "day": "2019-09-16T16:00:00.000Z",
+        "hour": "1899-12-30T04:04:17.000Z",
+        "type": "Teacher",
+        "sender": "Advanced Chinese I",
+        "generalSubject": "help with assignment"
+    },
+    {
+        "timestamp": "2019-09-19T10:26:23.082Z",
+        "score": 0,
+        "day": "2019-09-16T16:00:00.000Z",
+        "hour": "1899-12-30T07:54:17.000Z",
+        "type": "Spam School",
+        "sender": "IMA",
+        "generalSubject": "weekly update"
+    },
+    {
+        "timestamp": "2019-09-19T10:26:55.976Z",
+        "score": 0,
+        "day": "2019-09-16T16:00:00.000Z",
+        "hour": "1899-12-30T10:15:17.000Z",
+        "type": "Spam School",
+        "sender": "Group Erhu for Beginners",
+        "generalSubject": "homework assignment"
+    },
+    {
+        "timestamp": "2019-09-19T10:27:55.233Z",
+        "score": 0,
+        "day": "2019-09-16T16:00:00.000Z",
+        "hour": "1899-12-30T12:44:17.000Z",
+        "type": "Spam School",
+        "sender": "Athletics",
+        "generalSubject": "invitation"
+    },
+    {
+        "timestamp": "2019-09-19T10:28:34.237Z",
+        "score": 0,
+        "day": "2019-09-16T16:00:00.000Z",
+        "hour": "1899-12-30T14:14:17.000Z",
+        "type": "Spam Personal",
+        "sender": "linkedin",
+        "generalSubject": "notification"
+    },
+    {
+        "timestamp": "2019-09-19T10:29:11.136Z",
+        "score": 0,
+        "day": "2019-09-16T16:00:00.000Z",
+        "hour": "1899-12-30T14:19:17.000Z",
+        "type": "Direct",
+        "sender": "CDV",
+        "generalSubject": "help with assignment"
+    },
+    {
+        "timestamp": "2019-09-19T10:29:47.000Z",
+        "score": 0,
+        "day": "2019-09-16T16:00:00.000Z",
+        "hour": "1899-12-30T15:05:17.000Z",
+        "type": "Spam School",
+        "sender": "Global Spiritual Life",
+        "generalSubject": "invitation"
+    },
+    {
+        "timestamp": "2019-09-19T10:30:46.456Z",
+        "score": 0,
+        "day": "2019-09-17T16:00:00.000Z",
+        "hour": "1899-12-29T16:23:17.000Z",
+        "type": "Spam School",
+        "sender": "Stay Woke NYU",
+        "generalSubject": "weekly update"
+    },
+    {
+        "timestamp": "2019-09-19T10:31:37.794Z",
+        "score": 0,
+        "day": "2019-09-17T16:00:00.000Z",
+        "hour": "1899-12-29T17:08:17.000Z",
+        "type": "Spam Personal",
+        "sender": "CheapOair",
+        "generalSubject": "flight deals"
+    },
+    {
+        "timestamp": "2019-09-19T10:31:59.795Z",
+        "score": 0,
+        "day": "2019-09-17T16:00:00.000Z",
+        "hour": "1899-12-29T17:16:17.000Z",
+        "type": "Spam Personal",
+        "sender": "JetBlue",
+        "generalSubject": "flight deals"
+    },
+    {
+        "timestamp": "2019-09-19T10:32:17.461Z",
+        "score": 0,
+        "day": "2019-09-17T16:00:00.000Z",
+        "hour": "1899-12-29T18:57:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Margin Walker Presents",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T10:33:09.858Z",
+        "score": 0,
+        "day": "2019-09-17T16:00:00.000Z",
+        "hour": "1899-12-29T23:04:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Expedia",
+        "generalSubject": "flight deals"
+    },
+    {
+        "timestamp": "2019-09-19T10:33:24.482Z",
+        "score": 0,
+        "day": "2019-09-17T16:00:00.000Z",
+        "hour": "1899-12-30T00:03:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Ticketmaster",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T10:34:23.869Z",
+        "score": 0,
+        "day": "2019-09-17T16:00:00.000Z",
+        "hour": "1899-12-30T00:12:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Schlitterbahn",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T10:36:00.557Z",
+        "score": 0,
+        "day": "2019-09-17T16:00:00.000Z",
+        "hour": "1899-12-30T06:21:17.000Z",
+        "type": "Direct",
+        "sender": "Jiuhua Mountain Writing Retreat",
+        "generalSubject": "acceptance"
+    },
+    {
+        "timestamp": "2019-09-19T10:37:19.856Z",
+        "score": 0,
+        "day": "2019-09-17T16:00:00.000Z",
+        "hour": "1899-12-30T07:51:17.000Z",
+        "type": "Teacher",
+        "sender": "Advanced Chinese I",
+        "generalSubject": "homework assignment"
+    },
+    {
+        "timestamp": "2019-09-19T10:37:38.474Z",
+        "score": 0,
+        "day": "2019-09-17T16:00:00.000Z",
+        "hour": "1899-12-30T07:59:17.000Z",
+        "type": "Spam School",
+        "sender": "IMA",
+        "generalSubject": "PSA"
+    },
+    {
+        "timestamp": "2019-09-19T10:38:03.118Z",
+        "score": 0,
+        "day": "2019-09-17T16:00:00.000Z",
+        "hour": "1899-12-30T09:24:17.000Z",
+        "type": "Spam Personal",
+        "sender": "linkedin",
+        "generalSubject": "notification"
+    },
+    {
+        "timestamp": "2019-09-19T10:38:41.751Z",
+        "score": 0,
+        "day": "2019-09-17T16:00:00.000Z",
+        "hour": "1899-12-30T12:53:17.000Z",
+        "type": "Teacher",
+        "sender": "CDV",
+        "generalSubject": "homework assignment"
+    },
+    {
+        "timestamp": "2019-09-19T10:39:04.364Z",
+        "score": 0,
+        "day": "2019-09-17T16:00:00.000Z",
+        "hour": "1899-12-30T15:42:17.000Z",
+        "type": "Spam Personal",
+        "sender": "CheapOair",
+        "generalSubject": "flight deals"
+    },
+    {
+        "timestamp": "2019-09-19T10:39:30.827Z",
+        "score": 0,
+        "day": "2019-09-18T16:00:00.000Z",
+        "hour": "1899-12-29T15:57:17.000Z",
+        "type": "Spam Personal",
+        "sender": " Ticket Sales",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T10:39:55.694Z",
+        "score": 0,
+        "day": "2019-09-18T16:00:00.000Z",
+        "hour": "1899-12-29T20:59:17.000Z",
+        "type": "Spam School",
+        "sender": "Global Spiritual Life",
+        "generalSubject": "PSA"
+    },
+    {
+        "timestamp": "2019-09-19T10:40:16.641Z",
+        "score": 0,
+        "day": "2019-09-18T16:00:00.000Z",
+        "hour": "1899-12-29T23:15:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Eventbrite",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T10:41:04.483Z",
+        "score": 0,
+        "day": "2019-09-18T16:00:00.000Z",
+        "hour": "1899-12-30T01:05:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Expedia",
+        "generalSubject": "flight deals"
+    },
+    {
+        "timestamp": "2019-09-19T10:41:19.423Z",
+        "score": 0,
+        "day": "2019-09-18T16:00:00.000Z",
+        "hour": "1899-12-30T01:14:17.000Z",
+        "type": "Spam Personal",
+        "sender": "Ticketmaster",
+        "generalSubject": "ad"
+    },
+    {
+        "timestamp": "2019-09-19T10:41:41.786Z",
+        "score": 0,
+        "day": "2019-09-18T16:00:00.000Z",
+        "hour": "1899-12-30T01:17:17.000Z",
+        "type": "Spam School",
+        "sender": "Diversity Initiatives",
+        "generalSubject": "invitation"
+    },
+    {
+        "timestamp": "2019-09-19T10:42:39.312Z",
+        "score": 0,
+        "day": "2019-09-18T16:00:00.000Z",
+        "hour": "1899-12-29T16:30:17.000Z",
+        "type": "Spam School",
+        "sender": "Youth League",
+        "generalSubject": "invitation"
+    },
+    {
+        "timestamp": "2019-09-19T10:43:06.961Z",
+        "score": 0,
+        "day": "2019-09-18T16:00:00.000Z",
+        "hour": "1899-12-30T05:39:17.000Z",
+        "type": "Direct",
+        "sender": "Academic Advising",
+        "generalSubject": "course selection"
+    },
+    {
+        "timestamp": "2019-09-19T10:43:35.664Z",
+        "score": 0,
+        "day": "2019-09-18T16:00:00.000Z",
+        "hour": "1899-12-30T05:52:17.000Z",
+        "type": "Direct",
+        "sender": "Bursar",
+        "generalSubject": "balance"
+    },
+    {
+        "timestamp": "2019-09-19T10:43:58.875Z",
+        "score": 0,
+        "day": "2019-09-18T16:00:00.000Z",
+        "hour": "1899-12-30T07:34:17.000Z",
+        "type": "Teacher",
+        "sender": "PoH",
+        "generalSubject": "homework assignment"
+    },
+    {
+        "timestamp": "2019-09-19T10:44:28.492Z",
+        "score": 0,
+        "day": "2019-09-17T16:00:00.000Z",
+        "hour": "1899-12-30T11:05:17.000Z",
+        "type": "Direct",
+        "sender": "CDV",
+        "generalSubject": "help with assignment"
+    },
+    {
+        "timestamp": "2019-09-19T10:44:52.366Z",
+        "score": 0,
+        "day": "2019-09-18T16:00:00.000Z",
+        "hour": "1899-12-30T04:26:17.000Z",
+        "type": "Direct",
+        "sender": "CDV",
+        "generalSubject": "help with assignment"
+    },
+    {
+        "timestamp": "2019-09-19T10:45:20.328Z",
+        "score": 0,
+        "day": "2019-09-18T16:00:00.000Z",
+        "hour": "1899-12-30T06:25:17.000Z",
+        "type": "Direct",
+        "sender": "CDV",
+        "generalSubject": "help with assignment"
+    },
+    {
+        "timestamp": "2019-09-19T10:45:40.060Z",
+        "score": 0,
+        "day": "2019-09-18T16:00:00.000Z",
+        "hour": "1899-12-30T08:10:17.000Z",
+        "type": "Direct",
+        "sender": "CDV",
+        "generalSubject": "help with assignment"
+    },
+    {
+        "timestamp": "2019-09-19T10:46:22.343Z",
+        "score": 0,
+        "day": "2019-09-16T16:00:00.000Z",
+        "hour": "1899-12-29T16:37:17.000Z",
+        "type": "Direct",
+        "sender": "Group Piano for Beginners",
+        "generalSubject": "course selection"
+    },
+    {
+        "timestamp": "2019-09-19T10:46:51.166Z",
+        "score": 0,
+        "day": "2019-09-18T16:00:00.000Z",
+        "hour": "1899-12-30T08:18:17.000Z",
+        "type": "Direct",
+        "sender": "Group Piano for Beginners",
+        "generalSubject": "course selection"
+    }
+]
