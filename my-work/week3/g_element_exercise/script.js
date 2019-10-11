@@ -124,15 +124,15 @@ function yPos(){
 
 function getColor(datapoint){
   if(datapoint.type == "Spam Personal"){
-    return "#0000FF";
+    return "#EA4335";
   }
   if(datapoint.type == "Spam School"){
-    return "#FF0000";
+    return "#4285F4";
   }
   if(datapoint.type == "Direct"){
-    return "#32CD32";
+    return "#FBBC05";
   }
   if(datapoint.type == "Teacher"){
-    return "#800080";
+    return "#34A853";
   }
 }
