@@ -7,10 +7,19 @@ let pieHeight = 800;
 let radius = Math.min(pieWidth, pieHeight) / 2;
 
 function gotData(data){
-  let color = d3.scaleOrdinal().range(["#EA4335","#4285F4","#FBBC05","#34A853"]);
+
+  let sortedByType = d3.nest()
+    .key(function(d) { return d.type; })
+    .entries(data);
+
+  console.log(sortedByType);
+
+  // let color = d3.scaleOrdinal().range(["#EA4335","#4285F4","#FBBC05","#34A853"]);
+  let color = ["#EA4335","#4285F4","#FBBC05","#34A853"];
 
   let pie = d3.pie()
-    .value(function(d) { return d.type; })(data);
+    .value(function(d) { return d.values.length; })(sortedByType);
+
 
   let arc = d3.arc()
     .outerRadius(radius - 10)
@@ -34,5 +43,6 @@ function gotData(data){
 
   g.append("path")
     .attr("d", arc)
-    .style("fill", function(d) { return color(d.data.type);});
+    .style("fill", function(d) { return color[d.index];});
+
 }

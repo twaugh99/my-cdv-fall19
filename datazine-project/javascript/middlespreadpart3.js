@@ -27,7 +27,7 @@ function gotData(incomingData){
 
 function getColor3(datapoint){
   if(datapoint.generalSubject == "ad" || datapoint.generalSubject == "flight deals" || datapoint.generalSubject == "concert tickets"){
-    return "#4285F4";
+    return "#000000";
   } else {
     return "#D3D3D3";
   }
