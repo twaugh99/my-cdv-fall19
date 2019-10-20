@@ -15,4 +15,5 @@ Argentina has had a really hard time with the inflation of its currency consider
 I think that the infographic that I found is really interesting because it shows the exchange rate of the Argentine peso over time, but it also shows who was president using different colors. This is really important because this issue is largely due to corruption. This website also gives the code of how they created the infographic.
 
 https://www.r-bloggers.com/exchange-rate-ars-usd-part-i-getting-data-awk-and-r/
+
 *(I chose this article because I was born in Argentina and I plan to study away in Buenos Aires)*
