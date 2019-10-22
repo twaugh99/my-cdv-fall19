@@ -9,5 +9,5 @@ This is a dataset of all 574,000 albums that were on the Billboard Top 200 from 
 https://components.one/datasets/billboard-200/
 
 ### Cereal
-Cereal is my favorite food so I really liked this dataset. I am not 100% how I could use this to make a project to the scale of what this assignment is supposed to be, but I had the most fun looking at this dataset. 
+Cereal is my favorite food so I really liked this dataset. I am not 100% how I could use this to make a project to the scale of what this assignment is supposed to be, but I had the most fun looking at this dataset.
 https://www.statista.com/statistics/280007/us-households-brands-of-breakfast-cereal-cold-consumed/

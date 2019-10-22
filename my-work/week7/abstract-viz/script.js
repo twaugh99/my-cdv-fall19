@@ -1,20 +1,28 @@
 let w = 1200;
 let h = 800;
 
+
+let button1 = document.getElementById('button1');
+let button2 = document.getElementById('button2');
+let button3 = document.getElementById('button3');
+
+
 // for convenience
 let datafile = "data.json";
 
 // function to retrieve only the data points
 // belonging to one step in time:
-function getStep(data, step){
+
+let activeName = "A";
+
+function getName(data, name){
   return data.filter(function(datapoint){
-    if(datapoint.step == step){
+    if(datapoint.name == activeName){
       return true;
     }else{
       return false;
     }
   });
-
 }
 
 // creating the svg that holds everything else
@@ -28,7 +36,7 @@ let viz = d3.select("#container")
 ;
 
 
-function gotData(incomingData){
+function gotData(incomingData, name){
   // checking out our data
   // console.log(incomingData);
   // testing the filter function defined above
@@ -71,25 +79,35 @@ function gotData(incomingData){
   //Group that contains everything to do with our graph (aka the actual shapes)
   let vizgroup = viz.append("g").attr("class", "vizgroup");
 
-  let step = 0;
 
   drawViz();
 
-  // setInterval(function(){
-  //   if(step < 800){
-  //     step += 10;
-  //   } else {
-  //     step = 0;
-  //   }
-  //   drawViz();
-  // }, 100);
 
-  function drawViz(){
+
+function drawViz(){
     // console.log("draw viz runs");
-    let data = getStep(incomingData, step);
+    let data = getName(incomingData, name);
+
+    button1.addEventListener("click",function(){
+      activeName = "A"
+      console.log("button 1");
+    });
+    button1.addEventListener("click",drawViz);
+
+    button2.addEventListener("click",function(){
+      activeName = "B"
+      console.log("button 2");
+    });
+    button2.addEventListener("click",drawViz);
+
+    button3.addEventListener("click",function(){
+      activeName = "C"
+      console.log("button 3");
+    });
+    button3.addEventListener("click",drawViz);
     // console.log(data);
 
-    d3.shuffle(data);
+    // d3.shuffle(data);
     // console.log(data);
 
     let datagroups = vizgroup.selectAll(".datagroup").data(data, function(d){
@@ -116,33 +134,12 @@ function gotData(incomingData){
     //   .attr("font-family", "Comic Sans MS")
     // ;
 
+    datagroups.exit().remove();
 
-    enteringDataGroup.attr("transform", function(d, i){
-      return "translate("+ xScale(d.x) + ", " + yScale(d.y) + ")"
-    });
-
-    datagroups.transition().attr("transform", function(d, i){
+    enteringDataGroup.transition().attr("transform", function(d, i){
       return "translate("+ xScale(d.x) + ", " + yScale(d.y) + ")"
     });
   }
-}
-
-
-function button1(){
-  console.log("button 1");
-  drawViz();
-}
-
-function button2(){
-  console.log("button 2");
-  drawViz();
-
-}
-
-function button3(){
-  console.log("button 3");
-  drawViz();
-
 }
 
 d3.json(datafile).then(gotData);
